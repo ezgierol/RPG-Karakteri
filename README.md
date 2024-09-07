@@ -6,3 +6,4 @@
 
 Bu fonksiyonun, characterData state'ini bildirirken aynı zamanda bildirilmesi yeterlidir. Fonksiyonla başka bir şey yapmanıza gerek yok.
 -->
+https://rpg-karakteri-mu.vercel.app/
